@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Tue, 18 Oct 2022 19:48:46 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=ISO-8859-1
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: AEC=AakniGPTQHyrrWtsZu6WvYrQ7RWaqpSKDG6ywAPThc0-Z_WkzoxqgN-1Xks; expires=Sun, 16-Apr-2023 19:48:46 GMT; path=/; domain=.google.fr; Secure; HttpOnly; SameSite=lax
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+554b
+<!doctype html><html itemscope="" itemtype="http://schema.org/WebPage" lang="fr"><head><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta content="/images/branding/googleg/1x/googleg_standard_color_128dp.png" itemprop="image"><title>Google</title><script nonce="3k4eHMkTKEvwl1EsZphYhg">(function(){window.google={kEI:'HgNPY4OlD4KGlwSn4KiIAQ',kEXPI:'0,18168,1284368,56873,6058,207,4804,2316,383,246,5,5367,1123753,1578490,16115,19397,9287,22430,1362,12312,17587,4998,13228,3847,10622,22743,5079,1593,1279,2742,149,1103,842,1981,4315,3513,606,2023,1777,522,14668,3227,2845,7,33770,1851,2614,13142,3,346,230,6459,149,13975,1,1,2,1528,2304,7039,4887,15422,1714,5708,7357,13658,21223,5797,2560,4094,17,4035,3,3541,1,11943,30211,2,14022,14116,11623,5679,1020,2381,28741,4568,6259,23418,1252,5835,14967,4333,7484,11407,6349,1,7319,2006,8155,6680,701,15969,874,19635,4,1923,5784,3995,18516,3,3,608,2,4560,7630,4832,7934,9075,6,932,2,
